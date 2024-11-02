@@ -1,0 +1,58 @@
+/* Sfondo della pagina */
+body {
+    background-color: darkcyan;
+}
+
+/* titoloHome */
+.titolo1 {
+    color: black;
+    text-align: center;
+}
+
+/* Titolo delle squadre */
+.titolo-squadre {
+    font-size: 20px;
+    color: white;
+}
+
+/* Lista delle squadre */
+.lista-squadre {
+    font-size: 20px;
+    color: black;
+}
+
+
+/*-----------------------------------------*/
+
+
+/* titoloLogin */
+.titolo2  {
+    color: black;
+    text-align: center;
+}
+
+/* Stile per i link di navigazione nel form */
+.form-actions {
+    display: flex;
+    align-items: center;
+}
+
+/* Registrati */
+.form-actions .nav-link {
+    padding-left: 960px;
+    color: white;
+    text-decoration: underline;
+}
+
+/*-----------------------------------------*/
+
+/* titoloListaAllenatori */
+.titolo3  {
+    color: black;
+    text-align: center;
+}
+
+/* Colore testo tabella" */
+.text-white {
+    color: white;
+}
